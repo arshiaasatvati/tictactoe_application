@@ -1,6 +1,12 @@
 # tictactoe_application
 
-A new Flutter project.
+This is a TicTacToe simple game that helped me to learn GridView builder in Flutter 
+here is the video of how the game really working
+
+
+https://github.com/arshiaasatvati/tictactoe_application/assets/138293483/eb54e5f9-d768-4757-8957-4258b18985d9
+
+
 
 ## Getting Started
 
